@@ -1,21 +1,11 @@
-# Rendezvous
+becnhes can be seen in ci run
 
-**TODO: Add description**
+https://www.eecs.umich.edu/techreports/cse/96/CSE-TR-316-96.pdf
 
-## Installation
+https://medium.com/i0exception/rendezvous-hashing-8c00e2fb58b0
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `rendezvous` to your list of dependencies in `mix.exs`:
+https://en.wikipedia.org/wiki/Rendezvous_hashing
 
-```elixir
-def deps do
-  [
-    {:rendezvous, "~> 0.1.0"}
-  ]
-end
-```
+https://randorithms.com/2020/12/26/rendezvous-hashing.html
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/rendezvous](https://hexdocs.pm/rendezvous).
-
+https://pvk.ca/Blog/2017/09/24/rendezvous-hashing-my-baseline-consistent-distribution-method/
